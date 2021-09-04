@@ -190,7 +190,6 @@ D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Debug\net5.0\M
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Restaurant\SearchForARestaurantForm.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\User\CreateAnAccount.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
-D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\User\LogInForm.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Debug\net5.0\ref\ReviewApp.WebApp.dll
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\staticwebassets\ReviewApp.WebApp.StaticWebAssets.xml
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Debug\net5.0\Azure.Core.dll
@@ -201,3 +200,9 @@ D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Debug\net5.0\M
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Restaurant\Details2.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Restaurant\Details.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Restaurant\LeaveReviews.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Restaurant\Review.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\User\LogIn.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Shared\ErrorMessage.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\User\Denied.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs

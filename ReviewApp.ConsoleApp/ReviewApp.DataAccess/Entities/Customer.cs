@@ -7,6 +7,7 @@ namespace ReviewApp.DataAccess.Entities
 {
     public partial class Customer
     {
+
         public Customer()
         {
             ReviewJoins = new HashSet<ReviewJoin>();

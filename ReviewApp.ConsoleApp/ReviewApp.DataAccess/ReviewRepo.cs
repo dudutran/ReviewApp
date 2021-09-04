@@ -74,6 +74,12 @@ namespace ReviewApp.DataAccess
         }
         public ReviewApp.Domain.Customer AddAUser(ReviewApp.Domain.Customer customer)
         {
+
+            if (_context.Customers.Any(c => c.UserName == customer.UserName))
+            {
+                throw new InvalidOperationException("This username has been already used");
+            }
+            
             _context.Customers.Add(
                 new Entities.Customer
                 {
@@ -113,5 +119,20 @@ namespace ReviewApp.DataAccess
             }
             return new ReviewApp.Domain.Review();
         }
+        public ReviewApp.Domain.ReviewJoin AddAReviewJoin(ReviewApp.Domain.ReviewJoin reviewjoin)
+        {
+            _context.ReviewJoins.Add(
+                new Entities.ReviewJoin
+                {
+                    RestaurantId = reviewjoin.RestaurantId,
+                    CustomerId = reviewjoin.CustomerId,
+                    ReviewId = reviewjoin.ReviewId
+                }
+            );
+            _context.SaveChanges();
+            return reviewjoin;
+        }
+
+
     }
 }

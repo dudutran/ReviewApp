@@ -30,16 +30,17 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Restaurant" asp-action="SearchForARestaurantForm">Search</a>
                         </li>
-                        
-                        <li class="nav-item" style="position:absolute; right:25%">
+
+                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="CreateAnAccount">Register</a>
                         </li>
-                        <li class="nav-item" style="position:absolute; right:20%">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="LogInForm">Log In</a>
-                        </li>
-                        
-                </ul>
-            </div>
+                        @*<li class="nav-item" style="position:absolute; right:20%">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="LogIn">Log In</a>
+                        </li>*@
+
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
             </div>
         </nav>
     </header>

@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
+using System.Globalization;
 
 namespace ReviewApp.Domain
 {
     public class Customer
     {
         public Customer() { }
-        public Customer(string firstName, string lastName, string username, string password, string email)
+        public Customer(string firstName, string lastName, string username, string email, string password)
         {
             
             this.FirstName = firstName;
@@ -19,7 +21,7 @@ namespace ReviewApp.Domain
             this.Password = password;
         }
 
-        public Customer(int id, string firstName, string lastName, string username, string password, string email) /*: this(firstName, lastName, username, password, email)*/
+        public Customer(int id, string firstName, string lastName, string username, string email, string password) /*: this(firstName, lastName, username, password, email)*/
         {
             this.Id = id;
             this.FirstName = firstName;
@@ -32,7 +34,13 @@ namespace ReviewApp.Domain
         public string LastName { get; set; }
         public string FirstName { get; set; }
         public string Email { get; set; }
+
+
         public string UserName { get; set; }
         public string Password { get; set; }
+
+        
     }
+
+    
 }

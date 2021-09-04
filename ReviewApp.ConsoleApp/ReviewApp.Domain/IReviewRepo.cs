@@ -16,8 +16,10 @@ namespace ReviewApp.Domain
             List<Customer> GetAllCustomers();
             Customer AddAUser(Customer customer);
             Customer SearchUsersByUserName(string userName);
-            List<ReviewJoin> GetReviewJoins();
             Review SearchReviewByReviewId(int id);
+            List<ReviewJoin> GetReviewJoins();
+            
+            ReviewJoin AddAReviewJoin(ReviewJoin reviewjoin);
 
     }
         

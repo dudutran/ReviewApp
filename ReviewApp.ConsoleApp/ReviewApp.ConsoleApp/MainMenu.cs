@@ -30,6 +30,7 @@ namespace ReviewApp.ConsoleApp
                 Console.WriteLine("[2] Find Restaurants");
                 Console.WriteLine("[3] Add a Review");
                 Console.WriteLine("[4] Admin");
+                Console.WriteLine("[5] Search User by User Name");
 
 
                 switch (Console.ReadLine())
@@ -66,6 +67,10 @@ namespace ReviewApp.ConsoleApp
 
                     case "4":
                         GetAllCustomers();
+                        break;
+
+                    case "5":
+                        SearchUserByUserName();
                         break;
 
                     default:
@@ -149,6 +154,12 @@ namespace ReviewApp.ConsoleApp
                 Console.WriteLine($"{foundRestaurant.Name}\nAddress: {foundRestaurant.Location}\nContact: {foundRestaurant.Contact}");
                 Console.WriteLine("---------------------------");
             }
+        }
+        public void SearchUserByUserName()
+        {
+            string input = Console.ReadLine();
+            var user = _repo.SearchUsersByUserName(input);
+            Console.WriteLine($"{user.Password}");
         }
     }
 }

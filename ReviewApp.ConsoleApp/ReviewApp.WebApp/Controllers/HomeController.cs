@@ -23,8 +23,8 @@ namespace ReviewApp.WebApp.Controllers
 
         public IActionResult Index()
         {
-            var customers = _repo.GetAllCustomers();
-            return View(model: customers);
+            //var customers = _repo.GetAllCustomers();
+            return View();
         }
 
         public IActionResult Privacy()

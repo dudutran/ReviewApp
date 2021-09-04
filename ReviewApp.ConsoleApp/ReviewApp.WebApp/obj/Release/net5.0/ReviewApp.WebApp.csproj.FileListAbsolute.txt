@@ -137,14 +137,12 @@ D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\Details.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
-D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\Reviews.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\SearchForARestaurantForm.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\User\CreateAnAccount.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\User\Details.cshtml.g.cs
-D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\User\LogInForm.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\ReviewApp.WebApp.RazorTargetAssemblyInfo.cache
@@ -160,3 +158,8 @@ D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Release\net5.0
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Release\net5.0\Azure.Identity.dll
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Release\net5.0\Azure.Security.KeyVault.Secrets.dll
 D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\bin\Release\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\Details2.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\LeaveReviews.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\Restaurant\Review.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Revature\P1\P1-time3\ReviewApp.ConsoleApp\ReviewApp.WebApp\obj\Release\net5.0\Razor\Views\User\LogIn.cshtml.g.cs
